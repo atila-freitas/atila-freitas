@@ -4,7 +4,7 @@ I'm currently working at Nama.ai as Data Engineer, a company that combines human
 
 Nama projects:
 
-- Working on that...
+- Working on that... :hammer_and_pick:
 
 Trixlog projects:
 
@@ -23,7 +23,7 @@ SBSE works:
 
 Digital Image Processing with Machine Learning Application
 
-- Working on that...
+- Working on that... :hammer_and_pick:
 
 
 ### Studies :closed_book:
