@@ -8,8 +8,8 @@ Nama projects:
 
 Trixlog projects:
 
-- Heatmap of accidents
-- Heatmap of 
+- Heatmap of accidents (DBScan)
+- Heatmap of millions behaviors (K-means)
 - Idleness of fleet
 - Security Notifications in real-time
 
