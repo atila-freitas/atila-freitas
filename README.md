@@ -10,8 +10,8 @@ Trixlog projects:
 
 - Heatmap of accidents (DBScan)
 - Heatmap of millions behaviors (K-means)
-- Idleness of fleet
-- Security Notifications in real-time
+- Idleness of fleet (Python, S3, Power BI and Pentaho Data Integration)
+- Security Notifications in real-time (MongoDB, PostgreSQL and Python)
 
 ### At University :chart_with_upwards_trend:
 
