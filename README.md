@@ -19,7 +19,7 @@ I worked in search-based software engineering (SBSE) developing metaheuristics a
 
 SBSE works:
 
-- Link of article: https://bit.ly/38oga0h
+- Link of article: https://bit.ly/38oga0h (Java and NSGA-II)
 
 Digital Image Processing with Machine Learning Application
 
@@ -28,8 +28,7 @@ Digital Image Processing with Machine Learning Application
 
 ### Studies :closed_book:
 
-I’m currently learning Artificial Intelligence and Deep Learning, and reading "No Rules Rules: Netflix and the Culture of Reinvention". Also, I’m currently improving my second language (English).
-
+I am currently learning Artificial Intelligence and Deep Learning, reading "Rules Without Rules: Netflix and the Culture of Reinvention" and "The Book of Why: The New Science of Cause and Effect". Passionate about causal learning. In addition, I am currently improving my second language (English).
 
 <!--
 **atila-freitas/atila-freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
