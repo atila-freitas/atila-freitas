@@ -5,7 +5,7 @@ I'm currently working as Data Consultant at Trixlog (B2B enterprise in vehicular
 Data Consultant projects:
 
 - Working on that... :hammer_and_pick:
-- 
+
 Nama projects:
 
 - Data Architecture for a bank project (Python, MongoDB and PostgreSQL)
