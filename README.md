@@ -1,10 +1,14 @@
-### Data Engineer at Nama.ai 🔭
+### Data Consultant at Trixlog 🔭
 
-I'm currently working at Nama.ai as Data Engineer, a company that combines human and artificial intelligence to improve the consumer experience on a large scale. I've worked as Data Science Leader, and Data Analyst at TrixLog (B2B enterprise in vehicular telemetry). I have expertise with Python language, Flask framework to develop API, Pandas frameworks for data analyzes, Pentaho Data Integration for ETL, PostgreSQL, and MongoDB databases. I currently use clustering algorithms (DBScan, K-means, for example) for our projects.
+I'm currently working as Data Consultant at Trixlog (B2B enterprise in vehicular telemetry), but I've worked as Data Science Leader, and Data Analyst at TrixLog too. I have expertise with Python language, Flask framework to develop API, Pandas frameworks for data analyzes, Pentaho Data Integration for ETL, PostgreSQL, and MongoDB databases. I currently use clustering algorithms (DBScan, K-means, for example) for our projects. I've worked at Nama.ai as Data Engineer, a company that combines human and artificial intelligence to improve the consumer experience on a large scale implementing Data Architecture for a bank project.
 
-Nama projects:
+Data Consultant projects:
 
 - Working on that... :hammer_and_pick:
+- 
+Nama projects:
+
+- Data Architecture for a bank project (Python, MongoDB and PostgreSQL)
 
 Trixlog projects:
 
