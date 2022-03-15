@@ -1,4 +1,4 @@
-### Data Consultant at Trixlog 🔭
+### Data Scientist III at B3 🔭
 
 I'm currently working as Data Scientist III at B3. I've worked as Data Science Leader, Data Consultant, and Data Analyst at TrixLog. I have expertise with Python language, Flask framework to develop API, Pandas frameworks for data analyzes, Pentaho Data Integration for ETL, PostgreSQL, and MongoDB databases. I currently use clustering algorithms (DBScan, K-means, for example) for our projects. I've worked at Nama.ai as Data Engineer, a company that combines human and artificial intelligence to improve the consumer experience on a large scale implementing Data Architecture for a bank project.
 
